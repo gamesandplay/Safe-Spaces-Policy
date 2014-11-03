@@ -1,0 +1,1 @@
+This is the safe spaces policy for the [Games And Play Slack](https://gamesandplay.slack.com).
