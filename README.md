@@ -40,7 +40,6 @@ Failing to follow the community guidelines as described in this document carries
 
 * Eli Brody - @elibrody
 * Harry Lee  - @leehsl
-* Ian Snyder - @ian
 * Katelyn Gigante - @silasary
 * Mink Ette - @minkette
 * Mike Lazer-Walker - @lazerwalker
