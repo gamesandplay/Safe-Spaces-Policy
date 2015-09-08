@@ -1,6 +1,6 @@
 *This policy is a "living" document, and subject to refinement and expansion in the future.*
 
-The **Games and Play Slack** should be a safe place for everybody regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion.
+The **Bhaloidam Slack** should be a safe place for everybody regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion.
 
 As someone who is part of this Slack, you agree that:
 
@@ -38,11 +38,6 @@ Failing to follow the community guidelines as described in this document carries
 
 **If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know. Here is a list of the current moderators and their Slack IDs:**
 
-* Eli Brody - @elibrody
-* Harry Lee  - @leehsl
-* Katelyn Gigante - @silasary
-* Mink Ette - @minkette
-* Mike Lazer-Walker - @lazerwalker
-* Thomas Ingram - @thom_cat_
+* Corvus Elrod - @corvuse
 
 *The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
