@@ -43,6 +43,5 @@ Failing to follow the community guidelines as described in this document carries
 * Katelyn Gigante - @silasary
 * Mink Ette - @minkette
 * Mike Lazer-Walker - @lazerwalker
-* Thomas Ingram - @thom_cat_
 
 *The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
