@@ -36,11 +36,6 @@ If you say something that is found offensive, and you are called out on it, letâ
 Failing to follow the community guidelines as described in this document carries consequences. For minor infractions, you may be temporarily suspended from the Slack. Upon repeat offenses, or if the community believes you are not acting in good faith, you may be asked to leave permanently.
 
 
-**If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know. Here is a list of the current moderators and their Slack IDs:**
-
-* Harry Lee  - @leehsl
-* Katelyn Gigante - @silasary
-* Mink Ette - @minkette
-* Mike Lazer-Walker - @lazerwalker
+**There is currently no moderation team, however some members have moderator powers. If you have issues, please post in #meta**
 
 *The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
